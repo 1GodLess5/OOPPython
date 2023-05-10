@@ -1,3 +1,5 @@
+# simple class Flashlight
+
 class Flashlight:
     def __init__(self, color, isOn):
         self.color = color
