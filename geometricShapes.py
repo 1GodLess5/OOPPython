@@ -120,4 +120,3 @@ while shape != 0:
             print("Enter existing value!")
 
     sides.clear()
-    
